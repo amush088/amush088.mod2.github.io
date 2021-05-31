@@ -150,3 +150,4 @@ function getTotalPrice(chosenProducts) {
 	}
 	return totalPrice.toFixed(2);
 }
+
