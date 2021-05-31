@@ -35,35 +35,3 @@
   border: 1px solid #ccc;
   border-top: none;
 }
-
-
-
-
-/* Module 2 specific styles */
-
-header {
-  background-color: #2FBF71;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
-footer {
-  padding: 10px;
-  padding-bottom: 2px;
-  margin-bottom:0px;
-  margin-top: 20px;
-  text-align: center;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-.main {
-  min-height: 25em;
-}
-
-body, button, option {
-  font-size: 20px;
-}
